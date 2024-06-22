@@ -4,8 +4,8 @@
 <h3>I am a Japanese student aspiring to be an Embedded Software Developer!<br></h3>
 
 Since elemetary school, I have been interested in Information Technology, such as building computers, installing Linux OS to super old Windows PCs, setting Network and searching about its Security.
-Also, I have always loved to think about the logic of things(e.g human emotions and machine mechanisms).
-Currently, I would like to become someone who can develop technology that utilizes IoT, which is used by everyone, such as in automoviles or home appliances.
+Also, I have always loved to think about the logic of things(e.g human emotions and machine mechanisms).<br>
+Currently, I would like to become someone who can develop technology that utilizes IoT, which is used by everyone, such as in automobiles or home appliances.
 
 ```bash
 age : 22
@@ -20,7 +20,7 @@ hobby : ofc Programming, also Studying languages, Riding on CBR929RR
 
 <h4>Why Russian language...?</h4>
 
-Because I graduated a brach school of the Fareastern Federal University(Дальневосточный Федеральный Университет) in Hokkkaido. 
+Because I graduated a brach school of the Fareastern Federal University(Дальневосточный Федеральный Университет) in Hokkaido. 
 At the moment, I study at a technical colledge and my current speciality is IT, but previously I studied Russian regionology and Russian language.
 
 
