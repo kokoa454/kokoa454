@@ -1,7 +1,7 @@
 ![Introduce Myself](./profile.gif)
 
 <h1>Introduction</h1>
-<h3>I am a Japanese student aiming to become a Embedded Software Developer in the future!<br></h3>
+<h3>I am a Japanese student aspiring to be an Embedded Software Developer!<br></h3>
 
 Since elemetary school, I have been interested in Information Technology, such as building computers, installing Linux OS to super old Windows PCs, setting Network and searching about its Security.
 Also, I have always loved to think about the logic of things(e.g human emotions and machine mechanisms).
@@ -48,4 +48,6 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 
 <h1>My Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kokoa454&title=Experience,Commits,Repositories,Followers,Issues,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoa454&theme=tokyonight)](https://github-profile-summary-cards.vercel.app)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kokoa454&title=Experience,Commits,Repositories,Followers,Issues,PullRequest&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
