@@ -20,6 +20,7 @@ age : 22
 nationality : Japan
 skill : Russian language, Swimming, Plannnig trips
 hobby : ofc Programming, also Studying languages, Riding on CBR929RR
+languages : Japanese (Native level), Russian（Business level）, English（Conversational level）
 ```
 
 
