@@ -1,3 +1,8 @@
+<div align="right">
+  <p><a href="#" style="text-decoration:none;">English</a> &nbsp;|&nbsp; <a href="./README_ru.md">Русский</a> &nbsp;|&nbsp; <a href="./README_ja.md">日本語</a></p>
+</div>
+
+
 ![Introduce Myself](./profile.gif)
 
 <h1>Introduction</h1>
