@@ -1,7 +1,10 @@
-<div align="right">
-  <p><a href="#" style="text-decoration:none;">English</a> &nbsp;|&nbsp; <a href="./README_ru.md">Русский</a> &nbsp;|&nbsp; <a href="./README_ja.md">日本語</a></p>
-</div>
-
+<p align="right">
+  <a href="#" style="text-decoration:none;">English</a>
+  &nbsp;|&nbsp;
+  <a href="./README_ru.md">Русский</a>
+  &nbsp;|&nbsp;
+  <a href="./README_ja.md">日本語</a>
+</p>
 
 ![Introduce Myself](./profile.gif)
 
@@ -53,6 +56,16 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 
 <h1>My Stats</h1>
 
-[![trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoa454&theme=tokyonight)](https://github-profile-summary-cards.vercel.app)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokoa454&theme=tokyonight" alt="trophy" style="width: 86%;">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kokoa454&theme=tokyonight" alt="trophy" style="width: 43%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kokoa454&theme=tokyonight" alt="trophy" style="width: 43%;">
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kokoa454&title=Experience,Commits,Repositories,Followers,Issues,PullRequest&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kokoa454&theme=algolia" alt="trophy" style="width: 86%;">
+</p>
