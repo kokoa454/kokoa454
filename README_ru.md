@@ -12,7 +12,7 @@
 <h3>Я японский студент, стремящийся стать Embedded разработчиком!<br></h3>
 
 С тех пор, когда я учился в начальной школе, у меня есть интерес к Информационным технологиям, такими как строить компьютеры, инсталлировать Linux OS в Windows компьютеры, устанавливать сеть и изучать сетевую безопасность с собой.
-Кроме того, мне всегда нравилось думать о логике предметов и объектов(скажем, человеческих эмоций и механизмов машинных технологий)<br>
+Кроме того, мне всегда нравилось думать о логике предметов и объектов(скажем, человеческих эмоций и механизмов машинных технологий).<br>
 Сейчас я хотел бы стать тем, кто сможет разработать технологию, использующую Интернет вещей, которая используется всеми, например, в автомобилях или бытовой технике.
 
 ```bash
@@ -20,36 +20,36 @@
 гражданство : Япония
 особые способности : Русский язык, Плавание, Планировать поездки
 хобби : Програмировать, Заниматься иностранными языками, Кататься на CBR929RR
-языки : Японский (Native level), Русский（Business level）, Английский（Conversational level）
+языки : Японский (родной), Русский（бизнес уровень）, Английский（разговорный уровень）
 ```
 
 
 <br>
 
 
-<h4>Why Russian language...?</h4>
+<h4>Почему РУССКИЙ ЯЗЫК...?</h4>
 
-Because I graduated a brach school of the Fareastern Federal University(Дальневосточный Федеральный Университет) in Hokkaido. 
-At the moment, I study at a technical colledge and my current speciality is IT, but previously I studied Russian regionology and Russian language.
+Потому что я выпустил филиал ДВФУ(Дальневосточный Федеральный Университет) на Хоккайдо.
+В настоящее время я учусь в профессиональном вузе и моей специальностью является IT, а раньше изучал регионоведение России и русский язык.
 
 
 <br>
 
 
 <h1>Tech</h1>
-<h2>Languages I studied at school or by myself</h2>
+<h2>Языки, которые я изучал в вузе или самостоятельно</h2>
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=c,csharp,html5,css3,javascript,visualbasic)](https://simpleskill.icons.workers.dev)
 
-<h2>Languages I am going to study at school or by myself</h2>
+<h2>Языки, которые я планирую изучать в вузе или самостоятельно в будущем</h2>
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,php)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-<h2>Tools</h2>
+<h2>Инструментальные ПО</h2>
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=visualstudio,visualstudiocode,git)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
 
-<h2>Devices and others</h2>
+<h2>Гаджет и д.р.</h2>
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme)](https://simpleskill.icons.workers.dev)
 
