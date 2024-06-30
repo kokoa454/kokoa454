@@ -8,7 +8,7 @@
 
 ![Introduce Myself](./profile.gif)
 
-<h1>Introduce</h1>
+<h1>Introduction</h1>
 <h3>組み込みエンジニアを目指している専門学生です！<br></h3>
 
 私は、コンピュータを組み立てたり、Linux OSを古いWindowsマシンにインストールしたり、ネットワークを設定してそのセキュリティについて調べたりと、小学生の時から情報技術に興味を持っていました。
