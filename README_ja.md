@@ -37,21 +37,26 @@
 
 
 <h1>Tech</h1>
-<h2>学校や自学で学んだ言語一覧</h2>
+<h2>Languages I studied at school or by myself</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=c,csharp,html5,css3,javascript,visualbasic)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=c)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,visualbasic)](https://simpleskill.icons.workers.dev)
 
-<h2>学校や自学で学ぶ予定の言語一覧</h2>
+<h2>Languages I am going to study at school or by myself</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,php)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,php)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-<h2>使用ツール</h2>
+<h2>Tools</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=visualstudio,visualstudiocode,git)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,gitforwindows)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
 
-<h2>使用デバイス・その他</h2>
+<h2>Devices and others</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,freecodecamp,hackthebox,tryhackme,microsoftexcel)](https://simpleskill.icons.workers.dev)
 
 <br>
 
