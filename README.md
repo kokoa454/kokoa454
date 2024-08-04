@@ -45,7 +45,8 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 
 <h2>Languages I am going to study at school or by myself</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,php)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,php)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 <h2>Tools</h2>
 
@@ -54,7 +55,8 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 
 <h2>Devices and others</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,freecodecamp,hackthebox,tryhackme,microsoftexcel)](https://simpleskill.icons.workers.dev)
 
 <br>
 
