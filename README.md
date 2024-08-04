@@ -51,7 +51,7 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 
 <h2>Devices and others</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme,gitforwindows)](https://simpleskill.icons.workers.dev)
 
 <br>
 
