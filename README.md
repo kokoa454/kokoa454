@@ -39,7 +39,9 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 <h1>Tech</h1>
 <h2>Languages I studied at school or by myself</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=c,csharp,html5,css3,javascript,visualbasic)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=c)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,visualbasic)](https://simpleskill.icons.workers.dev)
 
 <h2>Languages I am going to study at school or by myself</h2>
 
@@ -47,11 +49,12 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 
 <h2>Tools</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=visualstudio,visualstudiocode,git)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,gitforwindows)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
 
 <h2>Devices and others</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme,gitforwindows)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=windows,apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,microsoftexcel,freecodecamp,hackthebox,tryhackme)](https://simpleskill.icons.workers.dev)
 
 <br>
 
