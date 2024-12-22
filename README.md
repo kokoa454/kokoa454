@@ -9,7 +9,7 @@
 ![Introduce Myself](./profile.gif)
 
 <h1>Introduction</h1>
-<h3>I am a Japanese student aspiring to be a Software Developer!<br></h3>
+<h3>I am a Japanese student aspiring to be a Developer!<br></h3>
 
 Since elemetary school, I have been interested in Information Technology, such as building computers, installing Linux OS to super old Windows PCs, setting Network and searching about its Security.
 Also, I have always loved to think about the logic of things(e.g., human emotions and machine mechanisms).<br>
