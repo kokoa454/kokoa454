@@ -41,11 +41,11 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=c)](https://simpleskill.icons.workers.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,sqlite)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,sqlite,python)](https://simpleskill.icons.workers.dev)
 
 <h2>学校や自学で学ぶ予定の言語一覧</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,php)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,php)](https://simpleskill.icons.workers.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 <h2>使用ツール</h2>
