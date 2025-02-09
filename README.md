@@ -15,7 +15,7 @@ Since elemetary school, I have been interested in Information Technology, such a
 Also, I have always loved to think about the logic of things(e.g., human emotions and machine mechanisms).<br>
 
 ```bash
-age : 22
+age : 23
 nationality : Japan
 skill : Russian language, Swimming, Plannnig trips
 hobby : ofc Programming, also Studying languages, Riding on CBR929RR
