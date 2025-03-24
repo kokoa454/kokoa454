@@ -41,16 +41,19 @@ At the moment, I study at a technical colledge and my current speciality is IT, 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=c)](https://simpleskill.icons.workers.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,sqlite,python)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=kotlin)](https://simpleskill.icons.workers.dev)
 
 <h2>Languages I am going to study at school or by myself</h2>
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,php)](https://simpleskill.icons.workers.dev)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 <h2>Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=.net,git,gitforwindows)](https://simpleskill.icons.workers.dev) [![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=.net,git,gitforwindows)](https://simpleskill.icons.workers.dev) 
+[![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=jetpackcompose)](https://simpleskill.icons.workers.dev) 
 
 <h2>Devices and others</h2>
 
