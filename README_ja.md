@@ -9,13 +9,13 @@
 ![Introduce Myself](./profile.gif)
 
 <h1>Introduction</h1>
-<h3>ITエンジニアを目指している専門学生です！<br></h3>
+<h3>エンタープライズシステムエンジニアです！<br></h3>
 
-私は、コンピュータを組み立てたり、Linux OSを古いWindowsマシンにインストールしたり、ネットワークを設定してそのセキュリティについて調べたりと、小学生の時から情報技術に興味を持っていました。
+私は昔からコンピュータを組み立てたり、Linux OSを古いWindowsマシンにインストールしたり、ネットワークを設定してそのセキュリティについて調べたりと、小学生の時から情報技術に興味を持っていました。
 また、人がなぜそのように考えるのか、どうやってその機械は動いているかなど、モノのロジックを考えるのが好きな子どもでもありました。<br>
 
 ```bash
-年齢 : 23歳
+年齢 : 24歳
 国籍 : 日本
 特技 : ロシア語、水泳、旅行の計画を立てること
 趣味 : プログラミング、外国語の勉強、CBR929RRでツーリング
@@ -29,37 +29,41 @@
 <h4>なぜロシア語なのか...？</h4>
 
 理由は、私が北海道に位置する極東連邦総合大学(Дальневосточный Федеральный Университет)の分校を卒業したからです。
-現在は専門学生としてITを専門に勉強していますが、以前はロシア地域学とロシア語を専攻していました。
+その後、情報系専門学生として勉強をしましたが、それ以前の専門としてはロシア地域学とロシア語です。
 
 
 <br>
 
 
 <h1>Tech</h1>
-<h2>学校や自学で学んだ言語一覧</h2>
+<h2>Languages</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=c)](https://simpleskill.icons.workers.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,javascript,sqlite,python)](https://simpleskill.icons.workers.dev)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=kotlin)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,kotlin,powershell)](https://skillicons.dev)
 
-<h2>学校や自学で学ぶ予定の言語一覧</h2>
+<h2>Framworks and Libraries</h2>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,php)](https://simpleskill.icons.workers.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,fastapi,pytorch)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=scikitlearn,pandas,numpy,opencv)](https://simpleskill.icons.workers.dev) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=jetpackcompose)](https://simpleskill.icons.workers.dev)
 
+<h2>Servers</h2>
 
-<h2>使用ツール</h2>
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=apachetomcat,nginx,letsencrypt)](https://simpleskill.icons.workers.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=.net,git,gitforwindows)](https://simpleskill.icons.workers.dev) 
-[![My Skills](https://skillicons.dev/icons?i=github,atom)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=jetpackcompose)](https://simpleskill.icons.workers.dev) 
+<h2>DBs</h2>
 
-<h2>使用デバイス・その他</h2>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,elasticsearch)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=apple,android,xiaomi,linux,linuxmint,kalilinux,ubuntu,freecodecamp,hackthebox,tryhackme,microsoftexcel)](https://simpleskill.icons.workers.dev)
+<h2>VCS</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
+
+<h2>Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,visualstudio,eclipse,docker,androidstudio)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=lmstudio,hackthebox,freecodecamp)](https://simpleskill.icons.workers.dev)
 
 <br>
 
@@ -74,7 +78,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kokoa454&theme=algolia" alt="trophy" style="width: 86%;">
-</p>
